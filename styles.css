@@ -152,7 +152,7 @@ body {
 
 .tour-row {
   border-bottom: 1px solid black;
-  /* padding-bottom: 1em; */
+  padding-bottom: 1em;
   margin-bottom: 1em;
 }
 
@@ -334,4 +334,10 @@ body {
   display: block;
   margin: 40px auto 80px auto;
   font-size: 1.15em;
+}
+
+.recentProjects {
+  position: relative;
+  right: 0;
+  bottom: 0;
 }
